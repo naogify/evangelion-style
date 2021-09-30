@@ -1,8 +1,8 @@
 $name: Evangelion Style
 
-$background: rgba(19, 28, 54, 1)
-$waterColor: rgba(1, 17, 44, 1)
-$highwayColor: rgba(255, 255, 255, 0.4)
+$background: "#7C5B9B"
+$waterColor: "#51D979"
+$highwayColor: "#FFA444"
 $textSettings:
   text-halo-blur: 0.5
   text-color: "#FFFFFF"
